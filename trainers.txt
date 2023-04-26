@@ -1,0 +1,6 @@
+Adam Troup#1#1 Street Rd#adamtroup@gmail.com
+Raul Clemens#2#2 Street Rd#raulclemens@gmail.com
+Hector Hernandez#3#3 Street Rd#hectorhernandez@gmail.com
+Alexandra Cortes#4#4 Street Rd#aoc@gmail.com
+Joe Biden#5#White House#joebiden@gmail.com
+Ian Finney#6#274 Circle St#ianfinney@gmail.com

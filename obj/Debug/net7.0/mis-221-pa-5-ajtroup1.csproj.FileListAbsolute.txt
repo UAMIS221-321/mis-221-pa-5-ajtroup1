@@ -1,0 +1,15 @@
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\bin\Debug\net7.0\mis-221-pa-5-ajtroup1.exe
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\bin\Debug\net7.0\mis-221-pa-5-ajtroup1.deps.json
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\bin\Debug\net7.0\mis-221-pa-5-ajtroup1.runtimeconfig.json
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\bin\Debug\net7.0\mis-221-pa-5-ajtroup1.dll
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\bin\Debug\net7.0\mis-221-pa-5-ajtroup1.pdb
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\obj\Debug\net7.0\mis-221-pa-5-ajtroup1.csproj.AssemblyReference.cache
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\obj\Debug\net7.0\mis-221-pa-5-ajtroup1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\obj\Debug\net7.0\mis-221-pa-5-ajtroup1.AssemblyInfoInputs.cache
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\obj\Debug\net7.0\mis-221-pa-5-ajtroup1.AssemblyInfo.cs
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\obj\Debug\net7.0\mis-221-pa-5-ajtroup1.csproj.CoreCompileInputs.cache
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\obj\Debug\net7.0\mis-221-pa-5-ajtroup1.dll
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\obj\Debug\net7.0\refint\mis-221-pa-5-ajtroup1.dll
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\obj\Debug\net7.0\mis-221-pa-5-ajtroup1.pdb
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\obj\Debug\net7.0\mis-221-pa-5-ajtroup1.genruntimeconfig.cache
+C:\Users\epicn\Desktop\CLASSES\MIS221\PAs\mis-221-pa-5-ajtroup1\obj\Debug\net7.0\ref\mis-221-pa-5-ajtroup1.dll
